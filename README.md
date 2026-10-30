@@ -158,13 +158,18 @@ Let's help more people discover Kai's world, one subtitle at a time. ♡
 
 ---
 
-## 📌 Credits & Notes
+## 📌 Copyright & Disclaimer
 
-- This is an independent, fan-made translation project.
-- It is not affiliated with, endorsed by, or officially connected to Kai, his agency, the program's production team, or any other rights holders.
-- All original program footage, music, names, trademarks, and other copyrighted materials belong to their respective owners.
-- Please respect the rights of the original creators and follow the applicable platform rules when sharing translated subtitles.
-- If you create a translation based on this file, please credit the original subtitle project and clearly identify your own translation.
-- Please do not present fan-made subtitles or cultural notes as official translations.
+This is an independent, non-commercial fan-made subtitle and cultural translation project. It is not affiliated with, endorsed by, or officially connected to Kai, his agency, the program's production team, or any other rights holders.
 
-Thank you for helping make cultural exchange a little warmer and more accessible. ♡
+All rights to the original program, video footage, audio, music, images, names, trademarks, and other copyrighted materials belong to their respective owners.
+
+The Chinese subtitles and supplementary cultural notes in this repository were created to help international fans better understand the program, Chinese culture, and Kai's experiences in China. They are shared for cultural exchange, translation, and fan community purposes only.
+
+**Please note that this project does not grant permission to download, redistribute, reproduce, or commercially use the original program or any copyrighted materials.** All users are responsible for complying with applicable copyright laws, platform rules, and the rights holders' terms of use.
+
+If you create a translation based on the subtitles provided here, please credit this repository as the source of the original subtitle file and clearly identify your own translation. Please do not present fan-made subtitles, translations, or cultural explanations as official content.
+
+If you are a rights holder and have any concerns regarding the materials shared in this repository, please contact the repository owner so the matter can be reviewed.
+
+Thank you for respecting the original creators and for helping share Kai's memories across languages and cultures. ♡
